@@ -1,5 +1,6 @@
 language: cpp
 compiler: clang
+sudo: false
 addons:
     apt:
         sources:
